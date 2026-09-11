@@ -6,7 +6,7 @@ explicit strategy for using AI to do the job faster, not to replace the engineer
 
 No install. No backend. No account. Download one HTML file, open it in your browser, and start.
 
-![Dashboard screenshot](screenshots/dashboard.png)
+![Dashboard screenshot](screenshots/dasshboard.png)
 
 ## Why this exists
 
